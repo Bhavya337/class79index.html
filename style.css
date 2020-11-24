@@ -1,0 +1,9 @@
+input {background-color: aqua; } 
+title {color: red; text-align: center;}
+#sort_button { background-color:purple; 
+color: rgb(18, 241, 18);}
+#submit_button 
+{ background-color:yellow; 
+    color:rgb(0, 0, 0); }
+    body {text-align: center;}
+
